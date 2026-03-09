@@ -8,7 +8,7 @@ As an implementation consultant generally focusing on finding projects for SAP E
 - 👯 I’m looking to collaborate on ... FP&A and Financial topics
 - 🤔 I’m looking for help with ... Searching for any kind of projects (as above)
 - 💬 Ask me about ... Claude Projects and prompting.
-- 📫 How to reach me: ... [https://Linkedin.com/in/TedemanCPA](Linkedin @TedemanCPA)
+- 📫 How to reach me: ... [!https://Linkedin.com/in/TedemanCPA](Linkedin @TedemanCPA)
 - 🌎 I'm based in Lake Worth, FL -- Near W. Palm Beach
 - ⚡ Fun fact: ... Althought my wife & I are currently in South Florida, we learned Scuba diving initially in rock quarries outside of Chicago.
 
