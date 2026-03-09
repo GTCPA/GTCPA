@@ -1,10 +1,4 @@
 ## Hi there 👋
-
-<!--
-**GTCPA/GTCPA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Finding projects for SAP ECC/R3 to SAP S/4 (Cloud) Migration, and/or as an AI trainer for financially-realted data or model tuning.
 - 🌱 I’m currently learning ... More about data annotation.
 - 👯 I’m looking to collaborate on ... FP&A and Financial topics
@@ -13,4 +7,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... Linkedin.com/in/TedemanCPA
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... Althought my wife & I are currently in South Florida, we learned Scuba diving initially in rock quarries outside of Chicago.
+
+
+<!--
+**GTCPA/GTCPA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 -->
