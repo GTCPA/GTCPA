@@ -1,5 +1,7 @@
 ## Hi there👋  My name is Garrett Tedeman.
 
+Certified SAP Consultant for SAP S/4HANA and SAP Analytics Cloud
+
 As an implementation consultant generally focusing on finding projects for SAP ECC/R3 to SAP S/4 (Cloud) Migration, and/or as an AI trainer for financially-realted data or model tuning.
 
 - 🌱 I’m currently learning ... More about data annotation.
@@ -10,6 +12,11 @@ As an implementation consultant generally focusing on finding projects for SAP E
 - 🌎 I'm based in Lake Worth, FL -- Near W. Palm Beach
 - ⚡ Fun fact: ... Althought my wife & I are currently in South Florida, we learned Scuba diving initially in rock quarries outside of Chicago.
 
+SKILLS
+
+[UNDER CONSTRUCTION]
+
+SOCIALS
 
 
 <!--
