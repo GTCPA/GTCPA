@@ -1,6 +1,7 @@
-## Hi there👋  My name is Garrett Tedeman, a 
+## Hi there👋  My name is Garrett Tedeman.
 
-- 🔭 I’m currently working on ... Finding projects for SAP ECC/R3 to SAP S/4 (Cloud) Migration, and/or as an AI trainer for financially-realted data or model tuning.
+As an implementation consultant generally focusing on finding projects for SAP ECC/R3 to SAP S/4 (Cloud) Migration, and/or as an AI trainer for financially-realted data or model tuning.
+
 - 🌱 I’m currently learning ... More about data annotation.
 - 👯 I’m looking to collaborate on ... FP&A and Financial topics
 - 🤔 I’m looking for help with ... Searching for any kind of projects (as above)
