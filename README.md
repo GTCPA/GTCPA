@@ -17,7 +17,7 @@ SKILLS
 [UNDER CONSTRUCTION]
 
 SOCIALS
-
+https://github.com/users/GTCPA/projects/1/views/1
 
 <!--
 **GTCPA/GTCPA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
