@@ -20,6 +20,7 @@ SOCIALS
 
 https://github.com/users/GTCPA/projects/1/views/1
 https://Linkedin.com/in/TedemanCPA
+
 https://www.X.com/TedemanCPA
 https://linktr.ee/GTCPA
 
