@@ -21,7 +21,7 @@ SOCIALS
 https://github.com/users/GTCPA/projects/1/views/1
 https://Linkedin.com/in/TedemanCPA
 https://X.com/TedemanCPA
-https://linkedtr.ee/GTCPA
+https://linktr.ee/GTCPA
 
 <!--
 **GTCPA/GTCPA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
